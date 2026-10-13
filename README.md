@@ -1,6 +1,6 @@
 # おぼえてオーダー！ 〜ふーさんの森カフェ〜
 
-▶ **遊ぶ：https://ryowatanabe1161-svg.github.io/oboete-order/**
+▶ **遊ぶ：https://fuusan-games.github.io/oboete-order/**
 
 ブラウザだけで遊べる、2〜6人用の **協力型・記憶パーティーゲーム（オンライン版）** です。
 森のカフェの店長 **ふーさん🐻** のもとで、みんなでお客さんの注文をおぼえて、手札をなくしましょう。
